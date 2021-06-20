@@ -2,6 +2,19 @@
 
 Esta herramienta te ayudara a Encriptar palabras - xNetting
 
+# ♟ - Uso 
+
+```
+
+git clone https://github.com/xNetting/TanTania-Encrypted
+
+cd TanTania-Encrypted
+
+python3 TanTania.py
+
+```
+
+
 # ⚡ - Funciones
 
 TanTania Encripta en varios metodos Hash como MD5, SHA1, SHA256, SHA224, blake2b, SHA3_256 & en una de sus opciones podras ver todos los Algoritmos de Encriptamiento
