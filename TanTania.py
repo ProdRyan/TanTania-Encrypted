@@ -1,5 +1,17 @@
-#CodedByxNetting
-#CrakaSquad
+################################################################
+#                                                              #
+#                        [Creditos ]                           #
+#                                                              #
+################################################################
+#                                                              #
+#                 Codigo hecho por xNetting                    #
+#                                                              #
+#                Dev: xNetting / Grupo: Craka Squad            #
+#                                                              #
+################################################################
+
+# CodedByxNetting
+# CrakaSquad
 
 import hashlib
 import os
