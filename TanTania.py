@@ -29,7 +29,7 @@ def encode_sha3_256():
     ┌─────────────────────────────────────────────────────┐
     │                                                     │
     │                                                     │
-    │ Escriba el texto que quiere encriptar en sha3_256   │                      
+    │ Escriba el texto que quiere encriptar en SHA3_256   │                      
     │                                                     │
     │                                                     │
     └─────────────────────────────────────────────────────┘
